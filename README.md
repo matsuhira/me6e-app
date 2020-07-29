@@ -11,4 +11,4 @@ https://datatracker.ietf.org/meeting/94/materials/slides-94-nvo3-6<br>
 94th IETF Yokohama, November 2015 <br>
 
 ## contact
-matsuhira@jp.fujitsu.com
+m46-me6-mslb-contact@googlegroups.com
