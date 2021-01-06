@@ -3,7 +3,7 @@ me6e-fp and me6e-pr application implementation
 
 ## How to use
 Clone this repository and make <br>
-( $ sudo yum install bridge-utils )
+( $ sudo yum install bridge-utils ) <br>
 $ git clone https://github.com/matsuhira/me6e-app <br>
 $ cd me6e-app <br>
 $ make <br>
